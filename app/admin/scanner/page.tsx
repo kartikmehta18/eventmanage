@@ -386,7 +386,7 @@ export default function ScannerPage() {
         The <Chatbot /> component is now wrapped in a div to make it a floating pop-up.
       */}
       <div className="fixed bottom-5 right-5 z-50">
-        <Chatbot />
+        
       </div>
 
     </div>
