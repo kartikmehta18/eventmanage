@@ -14,7 +14,7 @@ import { useToast } from '@/hooks/use-toast';
 import { markAttendance, getAllUsers, logout } from '@/app/actions/user';
 import {Html5QrcodeScanner} from 'html5-qrcode';
 import EventManager from '@/components/event/Events';
-import Chatbot from '@/components/chatbot/Chatbot';
+// import Chatbot from '@/components/chatbot/Chatbot';
 
 export default function ScannerPage() {
   const router = useRouter();
